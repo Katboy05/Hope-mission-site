@@ -1,0 +1,2 @@
+// You can add form handling or animations here in the future
+console.log("Hope Mission site loaded");
